@@ -13,3 +13,12 @@ Finally, we used a model to determine permutation importance and feature importa
 
 In a conclusion, we can use KNN classification model to determine a heart disease present for each client. We also learned a lot about our dataset and the dependencies between each feature and disease prediction. This information allows us to build a machine learning model that will predict heart failure risk more accurately.
 
+Moving on, we have optimized the KNN model for the best accuracy and F1 score. We improved accuracy from 85% to 90% using elbow method to find optimal K value, select optimal pre-processing method and distance metric. 
+
+From there, we took another step to try and improve the model's accuracy. We experimented with DNN model to achieve better performance than in KNN model.
+
+
+Video reports:
+
+Maksym Parkhomchuk: https://drive.google.com/file/d/1tdKUNfdpGg3xkXW0lAYyGAmElxdkyIQ5/view?usp=sharing
+
