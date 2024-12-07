@@ -1,1 +1,1 @@
-
+The models folder contains models used for classification problem of finding out whether a person with certain ECG results has a heart desease or not. In our project, we used two models: KNN and DNN. The code and explanation for each is profided in corresponding notebooks that can be found in /models/ folder
