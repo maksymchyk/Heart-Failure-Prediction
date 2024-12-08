@@ -20,5 +20,5 @@ From there, we took another step to try and improve the model's accuracy. We exp
 
 Video reports:
 
-Maksym Parkhomchuk: https://drive.google.com/file/d/1tdKUNfdpGg3xkXW0lAYyGAmElxdkyIQ5/view?usp=sharing
-
+Maksym Parkhomchuk: [Link to Google Drive](https://drive.google.com/file/d/1tdKUNfdpGg3xkXW0lAYyGAmElxdkyIQ5/view?usp=sharing)
+Pavlo Danylchenko: [Link to Google Drive](https://drive.google.com/file/d/1p76bVtMBkrGqu4ck211UHTYbx6Io929T/view?usp=sharing)
